@@ -1,0 +1,29 @@
+{
+  "name": "classificador-nivel-heroi",
+  "version": "1.0.0",
+  "description": "Desafio DIO - Classificador de Nível de Herói baseado em XP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "exemplos": "node exemplos.js"
+  },
+  "keywords": [
+    "javascript",
+    "dio",
+    "bootcamp",
+    "desafio",
+    "classificador",
+    "heroi",
+    "xp"
+  ],
+  "author": "Marcus Vasconcellos <marcus@vasconcellos.net.br>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/celloweb-ai/classificador-nivel-heroi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/celloweb-ai/classificador-nivel-heroi/issues"
+  },
+  "homepage": "https://github.com/celloweb-ai/classificador-nivel-heroi#readme"
+}
